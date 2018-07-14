@@ -47,6 +47,7 @@ Setup instructions for Snapdragon Flight are provided in the *PX4 User Guide*:
 ### Raspberry Pi
 
 To install the development toolchain:
+0. need to buy a PI zero IMU set first
 1. Download <a href="https://raw.githubusercontent.com/PX4/Devguide/master/build_scripts/ubuntu_sim_common_deps.sh" target="_blank" download>ubuntu_sim_common_deps.sh</a> (this contains the jMAVSim simulator and common toolchain dependencies).
 1. Run the script in a bash shell:
    ```bash
